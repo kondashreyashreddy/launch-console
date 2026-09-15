@@ -7,9 +7,9 @@ print("3) Exit")
 choice = input("Pick 1-3: ")
 
 if choice == "1":
-  print("...your about-me text...")
+  print("I am Shreyash Reddy Konda, a freshman student at Round Rock High School in Round Rock, Texas.")
 elif choice == "2":
-  print("...your goals...")
+  print("My goals are to have a degree in Computer Engineering and to master taekwondo.")
 elif choice == "3":
   print("Goodbye!")
   running = False
